@@ -1,0 +1,4 @@
+struct structA {
+	int member;
+};
+
