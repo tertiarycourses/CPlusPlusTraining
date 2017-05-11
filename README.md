@@ -1,5 +1,5 @@
 # C++ Essential Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [C++ Essential Training](https://www.tertiarycourses.com.sg/cplusplus-essential-training-in-singapore.html) course. 
 
